@@ -492,6 +492,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Platforms for orchestrating, transforming, and managing data pipelines. Enables AI agents to interact with complex ETL/ELT workflows, unify disparate data sources, and drive automated data operations across cloud and hybrid environments.
 
+- **[Apache DolphinScheduler](https://github.com/iflytek/dolphin-mcp-pilot)** - Operate [Apache DolphinScheduler](https://dolphinscheduler.apache.org) from AI agents. 58 tools covering DAG/SQL workflow creation, schedule lifecycle, workflow instance control, task-level intervention (force-success/skip), ordered data backfills, resource file management and workflow version rollback.
 - <img height="12" width="12" src="https://connection.keboola.com/favicon.ico" alt="Keboola Logo" /> **[Keboola](https://github.com/keboola/keboola-mcp-server)**<sup><sup>⭐</sup></sup> - Build robust data workflows, integrations, and analytics on a single intuitive platform.
 
 <br />
